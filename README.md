@@ -8,3 +8,7 @@ redundancies.
 ## Credits 
 Collaborated and bounced questions off of Sara Baqla 
 https://github.com/missatrox44/missatrox44
+
+## Demonstration 
+
+<img width="1430" alt="Screen Shot 2022-07-28 at 11 23 33 PM" src="https://user-images.githubusercontent.com/103971670/181682664-b51d7e13-8297-4c44-807a-36d52e6856e1.png">

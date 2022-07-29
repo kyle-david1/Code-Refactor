@@ -1,9 +1,9 @@
-## Code Revising
+## Code Refactor
 
 ## Description 
-Taking a given HTML document and adding semantic elements so that the document will meet accessibility standards. 
+Revises incorrect HTML syntax and adds semantic elements so that the document will meet accessibility standards. 
 Alt tags and sections were added. The HTML was organized to follow a more logical flow. CSS was condensed to remove 
-redundancies. I had difficulty resizing the images in the float left class. They are rendered to the page too large. 
+redundancies. 
 
 ## Credits 
 Collaborated and bounced questions off of Sara Baqla 
